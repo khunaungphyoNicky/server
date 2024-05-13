@@ -8,6 +8,7 @@
     "ProxyPort": "80",
     "Username ": "test",
     "Password ": "qq",
-    "Payload ": "bshsj"
+    "Payload ": "bshsj",
+    "Version": "5"
   }
 ]
