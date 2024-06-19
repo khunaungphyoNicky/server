@@ -1,3 +1,5 @@
 [
-  {"server": "vless://c61a98d9-78a8-4c89-9c2a-4482de7f046c@hnl.mywire.org:80?path=%2F&security=none&encryption=none&host=deepvpn.khunaungphyo.shop&type=ws#Sann"}
+  {"server": "vless://c61a98d9-78a8-4c89-9c2a-4482de7f046c@hnl.mywire.org:80?path=%2F&security=none&encryption=none&host=deepvpn.khunaungphyo.shop&type=ws#Sann"},
+  {"server": "vless://c61a98d9-78a8-4c89-9c2a-4482de7f046c@hnl.mywire.org:80?path=%2F&security=none&encryption=none&host=deepvpn.khunaungphyo.shop&type=ws#Phyo"},
+  {"server": "vless://c61a98d9-78a8-4c89-9c2a-4482de7f046c@hnl.mywire.org:80?path=%2F&security=none&encryption=none&host=deepvpn.khunaungphyo.shop&type=ws#Aung"}
 ]
